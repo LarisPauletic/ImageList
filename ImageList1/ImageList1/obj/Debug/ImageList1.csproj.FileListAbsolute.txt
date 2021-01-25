@@ -1,0 +1,10 @@
+C:\Users\Laris\source\repos\ImageList1\ImageList1\bin\Debug\ImageList1.exe.config
+C:\Users\Laris\source\repos\ImageList1\ImageList1\bin\Debug\ImageList1.exe
+C:\Users\Laris\source\repos\ImageList1\ImageList1\bin\Debug\ImageList1.pdb
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.csprojAssemblyReference.cache
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.Form1.resources
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.Properties.Resources.resources
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.csproj.GenerateResource.cache
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.csproj.CoreCompileInputs.cache
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.exe
+C:\Users\Laris\source\repos\ImageList1\ImageList1\obj\Debug\ImageList1.pdb
